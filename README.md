@@ -1,2 +1,5 @@
-# EjemplosMundoReal_POO
-Aplicar y demostrar la comprensión de los conceptos de Programación Orientada a Objetos (POO) mediante la creación de ejemplos que modelen situaciones del mundo real.
+Ejemplos de Programación Orientada a Objetos (POO) — Mundo Real
+
+Este repositorio contiene ejemplos prácticos de Programación Orientada a Objetos (POO) en Python, aplicados a situaciones del mundo real. Cada programa utiliza *clases, **atributos, **métodos* y *relaciones entre objetos* para modelar sistemas reales.
+
+me gusta mucho es muy interesante!!
